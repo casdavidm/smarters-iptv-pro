@@ -1,0 +1,6 @@
+{
+  "name": "Smarters IPTV Pro - iPhone & Smart TV",
+  "description": "Premier IPTV player for iPhone featuring M3U playlist streaming, interactive Electronic Program Guide (EPG), and seamless Smart TV casting via AirPlay, Chromecast, and webOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
